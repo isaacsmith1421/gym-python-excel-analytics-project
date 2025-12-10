@@ -29,7 +29,7 @@ This project replaces manual Excel work by using Python (Pandas) to ingest raw E
 2: Generate Clear Commercial Insights
 The script calculates:
 -Revenue by product
--Revenue by category (Supplements, PT Packs, Class Packs, Merch & Accessories)
+-Revenue by category (Supplements, PT Packs, Class Packs, Merch and Accessories)
 -Monthly revenue totals
 -Units sold per product and per category
 
