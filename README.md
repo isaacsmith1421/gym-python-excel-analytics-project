@@ -26,26 +26,26 @@ This project replaces manual Excel work by using Python (Pandas) to ingest raw E
 -Check-ins
 -Class attendance
 
-2. Generate Clear Commercial Insights
+2: Generate Clear Commercial Insights
 The script calculates:
 -Revenue by product
 -Revenue by category (Supplements, PT Packs, Class Packs, Merch & Accessories)
 -Monthly revenue totals
 -Units sold per product and per category
 
-3. Track Member Engagement
+3: Track Member Engagement
 Although future expansion could include dashboards and deeper engagement analytics, this version establishes the foundation by:
 -Cleaning check-in timestamps
 -Cleaning class attendance timestamps
 
-4. Support Operational & Strategic Decisions
+4: Support Operational & Strategic Decisions
 The output helps management quickly understand:
 -Which products generate the highest revenue
 -Which product categories perform best
 -Whether revenue is trending up/down month-to-month
 -Which areas of the business (retail, PT, group classes) deserve more focus
 
-5. Minimise Manual Excel Work
+5: Minimise Manual Excel Work
 By automating data cleaning, merging and aggregation,
 this project eliminates hours of repetitive manual tasks and ensures results are accurate and reproducible every month.
 
