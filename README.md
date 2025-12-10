@@ -17,8 +17,7 @@ This manual workflow often leads to business managerial inconsistencies, constan
 
 
 Project Objectives:
-The project objectives consist of five core areas.
-
+The project objectives consist of five core areas:
 1: Automating Core Monthly Reporting
 This project replaces manual Excel work by using Python (Pandas) to ingest raw Excel sheets and automatically process:
 -Sales data
