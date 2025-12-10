@@ -1,6 +1,5 @@
 Business Scenario: Data Processing System for hypothetical business “IronGains Fitness”
 
-IronGains Fitness Business Background:
 IronGains Fitness is a fast-growing urban gym with multiple revenue streams and a steady flow of member activity. 
 The gym operates a main facility with a weights area, cardio zone and a group fitness studio. 
 The gym also maintains a small retail section at the front desk selling supplements, merchandise and accessories. 
