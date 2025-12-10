@@ -12,11 +12,13 @@ The gym’s operations generate four major datasets:
 -Member check-ins through QR or barcode
 -Class attendance records
 Currently, management exports these files monthly into Excel and manually cleans, merges and analyses them before performance meetings. 
+
 This manual workflow often leads to business managerial inconsistencies, constant errors and delays when producing business insights.
 
 
 Project Objectives:
 The project objectives consist of five core areas.
+
 1: Automating Core Monthly Reporting
 This project replaces manual Excel work by using Python (Pandas) to ingest raw Excel sheets and automatically process:
 -Sales data
